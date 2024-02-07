@@ -1,0 +1,22 @@
+{
+  "name": "pratik",
+  "version": "1.0.0",
+  "description": "it self ammazing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratikbagale/Javascript.git"
+  },
+  "author": "pratik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratikbagale/Javascript/issues"
+  },
+  "homepage": "https://github.com/Pratikbagale/Javascript#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
