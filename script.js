@@ -1,2 +1,2 @@
-const Pratik = require("./second")
-console.log("hello world!", Pratik);
+console.log("hello world!");
+// this is a comment

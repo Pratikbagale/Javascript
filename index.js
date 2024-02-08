@@ -1,3 +1,1 @@
-const pratik = require("./second");
-
-console.log("hello world", pratik)
+console.log("hello world")
