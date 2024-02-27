@@ -17,3 +17,6 @@ else {
     Color = "white";
 }
 console.log(Color);
+if (mode === "dark") {
+    console.log(mode);
+}
