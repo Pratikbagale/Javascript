@@ -12,3 +12,4 @@ console.dir(button);
 let headings = document.getElementsByClassName("myClass");
 console.dir(headings);
 console.log(headings);
+

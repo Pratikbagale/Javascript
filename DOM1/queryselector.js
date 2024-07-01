@@ -11,3 +11,5 @@ console.dir(firstEl);
 
 let allEl = document.querySelectorAll("p"); // all elements
 console.dir(allEl);
+
+
