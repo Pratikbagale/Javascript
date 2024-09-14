@@ -5,3 +5,4 @@ for (let i = 0; i < heroes; i++) {
     console.log(heroes[i]);
 }
 //console.log("heroes: ", heroes);
+//
